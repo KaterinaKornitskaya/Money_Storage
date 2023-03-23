@@ -175,44 +175,7 @@ public:
 		time.Input();
 	}
 	
-	//void Input() // для ввода полей с клавиатуры
-	//{
-	//	int choice;
-	//	do {
-	//		
-	//		int sum;
-	//		std::cout << "Choose category of spending: \n"
-	//			<< "1. Food shops.\n"
-	//			<< "2. Pet shops.\n"
-	//			<< "3. Other shops.\n"				
-	//			<< "4. Exit\n";
-	//		std::cin >> choice;
-	//		switch (choice)
-	//		{
-	//			case 1: 
-	//				std::cout << "Enter spending for food shops: ";
-	//				std::cin >> sum;
-	//				category = 1;
-	//				money += sum;
-	//				break;
-	//			case 2:
-	//				std::cout << "Enter spending for pet shops: ";
-	//				std::cin >> sum;
-	//				category = 2;
-	//				money += sum;
-	//				break;
-	//			case 3:
-	//				std::cout << "Enter spending for other shops: ";
-	//				std::cin >> sum;
-	//				category = 3;
-	//				money += sum;
-	//				break;
-	//		}
-	//	} while (choice != 4);
-	//
-	//	date.Input();
-	//	time.Input();
-	//}
+	
 
 	void Output() const
 	{
