@@ -1,0 +1,7 @@
+Top 3 spendings for the week !
+Amount of money spending: 200  Category of spending: 1
+Date of transaction: 05/04/2023
+Time of transaction: 02:00:00
+Amount of money spending: 100  Category of spending: 1
+Date of transaction: 05/04/2023
+Time of transaction: 11:00:00
